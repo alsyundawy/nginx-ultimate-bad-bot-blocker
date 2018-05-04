@@ -1,12 +1,12 @@
 <img src="https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/blob/master/.assets/_logo_nginx_bad_bot_blocker.png" alt="Nginx Ultimate Bad Bot Spam Referrer Blocker - Nginx Block Bad Bots, Vulnerability Scanners, Malware and Adware, Malicious Sites, Spam Referrers, Bad Referrers, Spam Blocker with DDOS, Wordpress Theme Detector Blocking and Fail2Ban Jail for Repeat Offenders"/><img src="https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/blob/master/.assets/spacer.jpg"/>[![DUB](https://img.shields.io/dub/l/vibe-d.svg)](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/blob/master/LICENSE.md)<img src="https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/blob/master/.assets/spacer.jpg"/>[![GitHub release](https://img.shields.io/github/release/mitchellkrogza/nginx-ultimate-bad-bot-blocker.svg)](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/releases/latest)<img src="https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/blob/master/.assets/spacer.jpg"/>[![Build Status](https://travis-ci.org/mitchellkrogza/nginx-ultimate-bad-bot-blocker.svg?branch=master)](https://travis-ci.org/mitchellkrogza/nginx-ultimate-bad-bot-blocker)<img src="https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/blob/master/.assets/spacer.jpg"/>[![GitHub Stats](https://img.shields.io/badge/github-stats-ff5500.svg)](http://githubstats.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker)<img src="https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/blob/master/.assets/spacer.jpg"/><a href='https://twitter.com/ubuntu101za'><img src='https://img.shields.io/twitter/follow/ubuntu101za.svg?style=social&label=Follow' alt='Follow @ubuntu101za'></a>
 
 # Nginx Bad Bot and User-Agent Blocker, Spam Referrer Blocker, Anti DDOS, Bad IP Blocker and Wordpress Theme Detector Blocker
-##### The Ultimate Nginx Bad Bot, User-Agent, Spam Referrer Blocker, Adware, Malware and Ransomware Blocker, Clickjacking Blocker, Click Re-Directing Blocker, SEO Companies and Bad IP Blocker with Anti DDOS System, Nginx Rate Limiting and Wordpress Theme Detector Blocking. Stop and Block all kinds of bad internet traffic from ever reaching your web sites.
+##### The Ultimate Nginx Bad Bot, User-Agent, Spam Referrer Blocker, Adware, Malware and Ransomware Blocker, Clickjacking Blocker, Click Re-Directing Blocker, SEO Companies and Bad IP Blocker with Anti DDOS System, Nginx Rate Limiting and Wordpress Theme Detector Blocking. Stop and Block all kinds of bad internet traffic from ever reaching your web sites. [PLEASE SEE: Definition of Bad Bots](#define-bad-bots)
 
 _______________
-#### Version: V3.2018.03.1065
-#### Bad Referrer Count: 6193
-#### Bad Bot Count: 510
+#### Version: V3.2018.04.1098
+#### Bad Referrer Count: 6283
+#### Bad Bot Count: 527
 ____________________
 
 ## Help Support This Project 
@@ -39,7 +39,7 @@ Please make sure you are subscribed to notifications to be notified when the blo
 # EASY AUTO CONFIGURATION INSTRUCTIONS FOR THE NGINX BAD BOT BLOCKER
 ## Please follow the instructions below step by step :exclamation:
 
-- This is our new preferred method of installation which is now done through a set of shell scripts contributed to this repo by Stuart Cardall @itoffshore who is one of the Alpine Linux package maintainers. 
+- This is our new preferred method of installation which is now done through a set of shell scripts contributed to this repo and maintained by Stuart Cardall @itoffshore who is one of the Alpine Linux package maintainers. 
 
 - The instructions below are for a quick and painfree installation process which downloads all required files for the blocker and the scripts include adding the required includes to your nginx.conf and nginx .vhost files. The setup script assumes your vhost config files are located in /etc/nginx/sites-available/ and each vhost config file ends with a file extension of .vhost
 
@@ -54,14 +54,14 @@ Please make sure you are subscribed to notifications to be notified when the blo
 Download install-ngxblocker to your /usr/sbin/directory and make the script executable.
 
 ```
-sudo wget https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master/install-ngxblocker -O /usr/sbin/install-ngxblocker
-sudo chmod +x /usr/sbin/install-ngxblocker
+sudo wget https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master/install-ngxblocker -O /usr/local/sbin/install-ngxblocker
+sudo chmod +x /usr/local/sbin/install-ngxblocker
 ```
 
 If your Linux distribution does not have wget you can replace the wget command above using curl as follows:
 
 ```
-curl -sL https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master/install-ngxblocker -o /usr/sbin/install-ngxblocker
+curl -sL https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master/install-ngxblocker -o /usr/local/sbin/install-ngxblocker
 ```
 
 ************************************************
@@ -72,7 +72,7 @@ Now run the install-ngxblocker script in DRY-MODE which will show you what chang
 The install-ngxblocker downloads all required files including the setup and update scripts.
 
 ```
-cd /usr/sbin
+cd /usr/local/sbin
 sudo ./install-ngxblocker
 ```
 
@@ -104,8 +104,8 @@ Downloading [FROM]=>  [REPO]/bots.d/custom-bad-referrers.conf   [TO]=>  /etc/ngi
 
 REPO = https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master
 
-Downloading [FROM]=>  [REPO]/setup-ngxblocker      [TO]=>  /usr/sbin/setup-ngxblocker
-Downloading [FROM]=>  [REPO]/update-ngxblocker     [TO]=>  /usr/sbin/update-ngxblocker
+Downloading [FROM]=>  [REPO]/setup-ngxblocker      [TO]=>  /usr/local/sbin/setup-ngxblocker
+Downloading [FROM]=>  [REPO]/update-ngxblocker     [TO]=>  /usr/local/sbin/update-ngxblocker
 ```
 
 **setup-ngxblocker, install-ngxblocker and update-ngxblocker can all be configured with custom installation / update locations from the command line.** 
@@ -118,7 +118,7 @@ Downloading [FROM]=>  [REPO]/update-ngxblocker     [TO]=>  /usr/sbin/update-ngxb
 Now run the install script with the -x parameter to download all the necessary files from the repository:
 
 ```
-cd /usr/sbin/
+cd /usr/local/sbin/
 sudo ./install-ngxblocker -x
 ```
 
@@ -147,8 +147,8 @@ Downloading [FROM]=>  [REPO]/bots.d/custom-bad-referrers.conf   [TO]=>  /etc/ngi
 
 REPO = https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master
 
-Downloading [FROM]=>  [REPO]/setup-ngxblocker      [TO]=>  /usr/sbin/setup-ngxblocker...OK
-Downloading [FROM]=>  [REPO]/update-ngxblocker     [TO]=>  /usr/sbin/update-ngxblocker...OK
+Downloading [FROM]=>  [REPO]/setup-ngxblocker      [TO]=>  /usr/local/sbin/setup-ngxblocker...OK
+Downloading [FROM]=>  [REPO]/update-ngxblocker     [TO]=>  /usr/local/sbin/update-ngxblocker...OK
 ```
 
 All the required files have now been downloaded to the correct folders on Nginx for you direct from the repository.
@@ -156,8 +156,8 @@ All the required files have now been downloaded to the correct folders on Nginx 
 **MAKE SURE you set your setup and update scripts to be executable by running the following two commands. This is important before continuing with Step 4 and onwards.**
 
 ```
-sudo chmod +x /usr/sbin/setup-ngxblocker
-sudo chmod +x /usr/sbin/update-ngxblocker
+sudo chmod +x /usr/local/sbin/setup-ngxblocker
+sudo chmod +x /usr/local/sbin/update-ngxblocker
 ```
 
 **setup-ngxblocker, install-ngxblocker and update-ngxblocker can all be configured with custom installation / update locations from the command line.** 
@@ -170,7 +170,7 @@ sudo chmod +x /usr/sbin/update-ngxblocker
 Now run the setup-ngxblocker script in DRY-MODE which will show you what changes it will make and what files it will download for you. This is only a DRY-RUN so no changes are being made yet.
 
 ```
-cd /usr/sbin/
+cd /usr/local/sbin/
 sudo ./setup-ngxblocker
 ```
 
@@ -213,7 +213,7 @@ For instance if your vhost files end in .conf you will change this execute setup
 So now let's run the setup script and let it make all the changes we need to make the Bot Blocker active on all your sites.
 
 ```
-cd /usr/sbin/
+cd /usr/local/sbin/
 sudo ./setup-ngxblocker -x
 ```
 
@@ -264,7 +264,7 @@ nginx: configuration file /etc/nginx/nginx.conf test is successful
 
 Now simply reload / restart Nginx and the Bot Blocker will immediately be active and protecting all your web sites.
 
-`sudo service nginx reload`
+`sudo nginx -t && sudo nginx -s reload`
 
 or
 
@@ -281,17 +281,17 @@ Now setup cron to automatically update the blocker for you every day so you alwa
 
 Add the following line at the end of your crontab file. Note adding the `-e` command line parameter to specify your email address where the update report is sent to. Obviously substitute `yourname@youremail.com` with your real email address or you will not receive the email when the script has updated.
 
-`00 22 * * * sudo /usr/sbin/update-ngxblocker -e yourname@youremail.com` 
+`00 22 * * * sudo /usr/local/sbin/update-ngxblocker -e yourname@youremail.com` 
 
 This will update the blocker every night for you at 10 PM.
 
 If you want it to update more frequently (as sometimes I push out 3-4 updates a day) you can set it as follows to run the cron every 8 hours, although just once a day is more than enough.
 
-`00 */8 * * * sudo /usr/sbin/update-ngxblocker -e yourname@youremail.com`       
+`00 */8 * * * sudo /usr/local/sbin/update-ngxblocker -e yourname@youremail.com`       
 
 If you don't want any email notification after an update (not advisable in case Nginx ever has an EMERG when reloading), then simply run your cron as follows. 
 
-`00 */8 * * * sudo /usr/sbin/update-ngxblocker -n`       
+`00 */8 * * * sudo /usr/local/sbin/update-ngxblocker -n`       
 
 That's it, the blocker will automatically keep itself up to date and also reload Nginx once it has downloaded the latest version of the globalblacklist.conf file.
 
@@ -368,7 +368,11 @@ folder location in the command lines as follows.
 This will automatically put the files into the locations you specify, it will do the includes into your vhosts using your custom locations  and when update-ngblocker pulls a new update it will also now automatically re-write the "Include" sections inside the globalblacklist.conf file your own custom locations. Thanks again to Stuart Cardall @itoffshore for his contributions of these excellent scripts.
 
 ************************************************
-### WHY BLOCK BAD BOTS ?
+# WHY BLOCK BAD BOTS ?
+
+<h4 id="define-bad-bots">
+Definition of Bad Bots
+</h4>
 
 ##### Bad bots are:
 
@@ -376,11 +380,13 @@ This will automatically put the files into the locations you specify, it will do
 -    Bad User-Agent Strings
 -    Spam Referrers
 -    Spam Bots and Bad Bots
+-    Nuisance or Unwanted Bots
 -    Sites Linked to Lucrative Malware, Adware and Ransomware Clickjacking Campaigns
 -    Vulnerability scanners
 -    Gambling and Porn Web Sites
 -    E-mail harvesters
 -    Content scrapers
+-    Link Ranking Bots
 -    Aggressive bots that scrape content
 -    Image Hotlinking Sites and Image Thieves
 -    Bots or Servers linked to viruses or malware
@@ -634,11 +640,6 @@ Thousand of hours of programming and testing have gone into this project, show s
 [![Help me out with a mug of beer](https://img.shields.io/badge/Help%20-%20me%20out%20with%20a%20mug%20of%20%F0%9F%8D%BA-blue.svg)](https://paypal.me/mitchellkrog/) or [![Help me feed my cat](https://img.shields.io/badge/Help%20-%20me%20feed%20my%20hungry%20cat%20%F0%9F%98%B8-blue.svg)](https://paypal.me/mitchellkrog/)
 
 ************************************************
-## CHECK FOR FREE IF YOUR WEB SITE IS COMPROMISED OR BLACKLISTED
-
-<a href="https://www.gravityscan.com/" target="_blank"><img src="https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/blob/master/.assets/gravity-scan-by-wordfence.png" alt="Check if your web site is blacklisted, hacked or compromised using the awesome Free GravityScan tool"/></a>
-
-************************************************
 # HAS YOUR WEB SITE BEEN HACKED?
 
 [![Contact me for help](https://img.shields.io/badge/Contact%20-%20me%20for%20help%20%F0%9F%9A%91-blue.svg)](mailto:mitchellkrog@gmail.com) to help you clean up and secure your web site. 
@@ -648,6 +649,7 @@ Thousand of hours of programming and testing have gone into this project, show s
 
 - https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 - https://github.com/mitchellkrogza/Badd-Boyz-Hosts
+- https://github.com/mitchellkrogza/Ultimate.Hosts.Blacklist
 - https://github.com/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO
 - https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites
 - https://github.com/mitchellkrogza/fail2ban-useful-scripts
@@ -655,8 +657,11 @@ Thousand of hours of programming and testing have gone into this project, show s
 - https://github.com/mitchellkrogza/Travis-CI-Nginx-for-Testing-Nginx-Configuration
 - https://github.com/mitchellkrogza/Travis-CI-for-Apache-For-Testing-Apache-and-PHP-Configurations
 - https://github.com/mitchellkrogza/Fail2Ban-Blacklist-JAIL-for-Repeat-Offenders-with-Perma-Extended-Banning
-- https://github.com/funilrys/funceble
+- https://github.com/funilrys/PyFunceble
 - https://github.com/funilrys/dead-hosts
+- https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites
+- https://github.com/mitchellkrogza/Suspicious.Snooping.Sniffing.Hacking.IP.Addresses
+- https://github.com/mitchellkrogza/Fail2Ban.WebExploits
 
 ************************************************
 ### ALSO CHECKOUT THE NEW BIG LIST OF HACKED MALWARE & WORDPRESS WEB SITES
@@ -669,7 +674,7 @@ Check it out at: https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malwar
 ************************************************
 ### INTO PHOTOGRAPHY?
 
-Come drop by and visit me at https://mitchellkrog.com or <a href='https://twitter.com/MitchellKrog'><img src='https://img.shields.io/twitter/follow/MitchellKrog.svg?style=social&label=Follow' alt='Follow @MitchellKrog'></a>
+Come drop by and visit me at [mitchellkrog.com](https://mitchellkrog.com) or [Facebook](https://www.facebook.com/MitchellKrogPhotography) or Follow Me on Twitter <a href='https://twitter.com/MitchellKrog'><img src='https://img.shields.io/twitter/follow/MitchellKrog.svg?style=social&label=Follow' alt='Follow @MitchellKrog'></a>
 
 ************************************************
 ### ACKNOWLEDGMENTS & CONTRIBUTORS:
@@ -681,7 +686,7 @@ In fact it is so hard to mention everyone but here are a few key people whose li
 
 - Konstantin Goretzki @konstantingoretzki https://github.com/konstantingoretzki (Improved Regex on Fail2Ban Filter)
 - Stuart Cardall - https://github.com/itoffshore (Install, Update and Setup Scripts & Alpine Linux Package Maintainer)
-- Nissar Chababy @funilrys - https://github.com/funilrys/funceble (Excellent script for checking ACTIVE, INACTIVE and EXPIRED Domain Names)
+- Nissar Chababy @funilrys - https://github.com/funilrys/PyFunceble (Excellent script for checking ACTIVE, INACTIVE and EXPIRED Domain Names)
 - Marius Voila https://github.com/mariusv
 - Cătălin Mariș https://github.com/alrra
 - deformhead https://github.com/deformhead

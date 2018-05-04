@@ -79,9 +79,7 @@ update_paths() {
 }
 
 check_config() {
-	local files="$*"
-
-	if [ -z "$files" ]; then
+	if [ -z "$FILE_LIST" ]; then
 		printf "${BOLDGREEN}using a file extension for vhost files allows multiple domains to be included with a single directive in nginx.conf:\n\n"
 		printf "${BOLDWHITE}include /etc/nginx/sites-enabled/*.vhost;\n\n"
 		printf "${BOLDYELLOW}see command line switches below: ${BOLDGREEN}-e ${RESET}to customise the vhost file extension\n\n"
@@ -97,7 +95,16 @@ check_config() {
 }
 
 find_vhosts() {
-	find $VHOST_DIR -type f -name "*.$VHOST_EXT"
+	local ans=
+	FILE_LIST=$(find $VHOST_DIR -type f -name "*.$VHOST_EXT")
+
+	if [ -z "$FILE_LIST" ]; then
+		find $VHOST_DIR -type f
+		printf "\n${BOLDWHITE}Configure every file above as a vhost ? [Y/N] : "; read ans
+		case "$ans" in
+			y*|Y*) FILE_LIST=$(find $VHOST_DIR -type f);;
+		esac
+	fi
 }
 
 whitelist_ips() {
@@ -276,6 +283,23 @@ check_depends() {
 	fi
 }
 
+check_nginx_directives() {
+	# avoid directive conflicts with nginx.conf
+	local x= bot_config="$CONF_DIR"/botblocker-nginx-settings.conf
+
+	# directives sourced from include_filelist.txt
+	for x in $NGINX_DIRECTIVES; do
+		if grep -E "(^$x|^[[:space:]]+$x)" 1>/dev/null $MAIN_CONF; then
+			printf "${BOLDYELLOW}setup will fix conflict from: '$x' in $bot_config${RESET}\n"
+			if [ "$DRY_RUN" = "N" ]; then
+				printf "${BOLDRED}disabling '$x' in: $bot_config${RESET}\n"
+				sed "s|$x|#$x|" $bot_config | grep $x
+				printf " ${BOLDGREEN}disabled OK${RESET}\n\n"
+			fi
+		fi
+	done
+}
+
 get_options() {
 	local arg= opts=
 
@@ -330,7 +354,7 @@ check_online() {
 }
 
 main() {
-	local include_url= file= line= file_list= col_size= blacklist=
+	local include_url= file= line= col_size= blacklist=
 	local CONF_FILES= VHOST_INCLUDES=
 	local REPO=https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master
 
@@ -345,8 +369,8 @@ main() {
 	check_depends
 
 	# check vhosts
-	file_list=$(find_vhosts)
-	check_config $file_list
+	find_vhosts
+	check_config
 
 	# check repo is online & source includes
 	include_url=$REPO/include_filelist.txt
@@ -394,7 +418,7 @@ main() {
 	fi
 
 	# update vhosts
-	for file in $file_list; do
+	for file in $FILE_LIST; do
 		line=$(find_includes $file include last server_ last location first )
 
 		if [ -n "$(check_wildcard $file $BOTS_DIR)" ]; then
@@ -407,6 +431,10 @@ main() {
 		fi
 	done
 
+	# check nginx.conf for settings that clash
+	check_nginx_directives
+
+	# whitelisting
 	whitelist_ips $col_size
 
 	if [ -d $WWW ]; then

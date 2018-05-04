@@ -87,12 +87,6 @@ An example of the jail settings for your jail.local file is included in the jail
 This works great at picking up wp-login attacks.
 Be sure to add the rate limiting zone to your nginx.conf as per instructions in /filter.d/nginx-limit-req.local
 
-
-************************************************
-## CHECK FOR FREE IF YOUR WEB SITE IS COMPROMISED OR BLACKLISTED
-
-<a href="https://www.gravityscan.com/" target="_blank"><img src="https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/blob/master/.assets/gravity-scan-by-wordfence.png" alt="Check if your web site is blacklisted, hacked or compromised using the awesome Free GravityScan tool"/></a>
-
 ************************************************
 # HAS YOUR WEB SITE BEEN HACKED?
 
@@ -101,8 +95,10 @@ Be sure to add the rate limiting zone to your nginx.conf as per instructions in 
 ************************************************
 ### SOME OTHER AWESOME FREE PROJECTS
 
+- https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker
 - https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 - https://github.com/mitchellkrogza/Badd-Boyz-Hosts
+- https://github.com/mitchellkrogza/Ultimate.Hosts.Blacklist
 - https://github.com/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO
 - https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites
 - https://github.com/mitchellkrogza/fail2ban-useful-scripts
@@ -110,7 +106,11 @@ Be sure to add the rate limiting zone to your nginx.conf as per instructions in 
 - https://github.com/mitchellkrogza/Travis-CI-Nginx-for-Testing-Nginx-Configuration
 - https://github.com/mitchellkrogza/Travis-CI-for-Apache-For-Testing-Apache-and-PHP-Configurations
 - https://github.com/mitchellkrogza/Fail2Ban-Blacklist-JAIL-for-Repeat-Offenders-with-Perma-Extended-Banning
-- https://github.com/funilrys/funceble
+- https://github.com/funilrys/PyFunceble
+- https://github.com/funilrys/dead-hosts
+- https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites
+- https://github.com/mitchellkrogza/Suspicious.Snooping.Sniffing.Hacking.IP.Addresses
+- https://github.com/mitchellkrogza/Fail2Ban.WebExploits
 
 ************************************************
 ### ALSO CHECKOUT THE NEW BIG LIST OF HACKED MALWARE & WORDPRESS WEB SITES
@@ -123,7 +123,7 @@ Check it out at: https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malwar
 ************************************************
 ### INTO PHOTOGRAPHY?
 
-Come drop by and visit me at https://mitchellkrog.com or <a href='https://twitter.com/MitchellKrog'><img src='https://img.shields.io/twitter/follow/MitchellKrog.svg?style=social&label=Follow' alt='Follow @MitchellKrog'></a>
+Come drop by and visit me at [mitchellkrog.com](https://mitchellkrog.com) or [Facebook](https://www.facebook.com/MitchellKrogPhotography) or Follow Me on Twitter <a href='https://twitter.com/MitchellKrog'><img src='https://img.shields.io/twitter/follow/MitchellKrog.svg?style=social&label=Follow' alt='Follow @MitchellKrog'></a>
 
 ************************************************
 ### ACKNOWLEDGMENTS & CONTRIBUTORS:

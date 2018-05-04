@@ -174,8 +174,8 @@ sanitize_url() {
 }
 
 sanitize_email() {
-	echo $1 |tr -cd '[:alnum:] [=@=] [=.=] [=-=] [=_=]' \
-		|tr -s '@-_.' |awk '{print tolower($0)}'
+	echo $1 |tr -cd '[:alnum:] [=@=] [=.=] [=-=] [=_=] [=+=]' \
+		|tr -s '@-_.+' |awk '{print tolower($0)}'
 }
 
 check_args() {
@@ -188,7 +188,7 @@ check_args() {
 				exit 1
 			fi
 			;;
-	       email)   if ! echo $arg | grep -E ^[-_\.[:alnum:]]+@[-_\.[:alnum:]]+ 1>/dev/null; then
+	       email)   if ! echo $arg | grep -E ^[-+_\.[:alnum:]]+@[-_\.[:alnum:]]+ 1>/dev/null; then
 				printf "$msg email@domain.com\n"
 				exit 1
 			fi

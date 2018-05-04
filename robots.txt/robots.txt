@@ -1,8 +1,8 @@
 ### Version Information #
 ###################################################
-### Version: V3.2018.03.1065
-### Updated: Sun Mar 11 15:34:26 SAST 2018
-### Bad Bot Count: 510
+### Version: V3.2018.04.1098
+### Updated: Sat Apr 21 13:23:04 SAST 2018
+### Bad Bot Count: 527
 ###################################################
 ### Version Information ##
 
@@ -10,6 +10,10 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 User-agent: 360Spider
+Disallow:/
+User-agent: 404checker
+Disallow:/
+User-agent: 404enemy
 Disallow:/
 User-agent: 80legs
 Disallow:/
@@ -36,6 +40,8 @@ Disallow:/
 User-agent: Alligator
 Disallow:/
 User-agent: AllSubmitter
+Disallow:/
+User-agent: AlphaBot
 Disallow:/
 User-agent: Anarchie
 Disallow:/
@@ -72,6 +78,8 @@ Disallow:/
 User-agent: Battleztar Bazinga
 Disallow:/
 User-agent: BBBike
+Disallow:/
+User-agent: BDCbot
 Disallow:/
 User-agent: BDFetch
 Disallow:/
@@ -161,6 +169,10 @@ User-agent: Cosmos
 Disallow:/
 User-agent: Craftbot
 Disallow:/
+User-agent: crawler4j
+Disallow:/
+User-agent: crawler.feedback
+Disallow:/
 User-agent: CrazyWebCrawler
 Disallow:/
 User-agent: Crescent
@@ -200,6 +212,8 @@ Disallow:/
 User-agent: Discoverybot
 Disallow:/
 User-agent: DittoSpyder
+Disallow:/
+User-agent: DnyzBot
 Disallow:/
 User-agent: DomainAppender
 Disallow:/
@@ -321,6 +335,8 @@ User-agent: GridBot
 Disallow:/
 User-agent: GT::WWW
 Disallow:/
+User-agent: Haansoft
+Disallow:/
 User-agent: HaosouSpider
 Disallow:/
 User-agent: Harvest
@@ -357,6 +373,8 @@ User-agent: Image Fetch
 Disallow:/
 User-agent: Image Sucker
 Disallow:/
+User-agent: IndeedBot
+Disallow:/
 User-agent: Indy Library
 Disallow:/
 User-agent: InfoNaviRobot
@@ -382,6 +400,8 @@ Disallow:/
 User-agent: IRLbot
 Disallow:/
 User-agent: Iskanie
+Disallow:/
+User-agent: IstellaBot
 Disallow:/
 User-agent: JamesBOT
 Disallow:/
@@ -483,6 +503,8 @@ User-agent: Mass Downloader
 Disallow:/
 User-agent: Mata Hari
 Disallow:/
+User-agent: MauiBot
+Disallow:/
 User-agent: Meanpathbot
 Disallow:/
 User-agent: mediawords
@@ -573,6 +595,8 @@ User-agent: NPbot
 Disallow:/
 User-agent: Nutch
 Disallow:/
+User-agent: NYU
+Disallow:/
 User-agent: oBot
 Disallow:/
 User-agent: Octopus
@@ -590,6 +614,8 @@ Disallow:/
 User-agent: OrangeBot
 Disallow:/
 User-agent: OrangeSpider
+Disallow:/
+User-agent: OutclicksBot
 Disallow:/
 User-agent: OutfoxBot
 Disallow:/
@@ -693,6 +719,8 @@ User-agent: ScanAlert
 Disallow:/
 User-agent: Scanbot
 Disallow:/
+User-agent: scan.lol
+Disallow:/
 User-agent: Scrapy
 Disallow:/
 User-agent: Screaming
@@ -724,6 +752,8 @@ Disallow:/
 User-agent: Seznam
 Disallow:/
 User-agent: SeznamBot
+Disallow:/
+User-agent: Shodan
 Disallow:/
 User-agent: Siphon
 Disallow:/
@@ -1014,6 +1044,10 @@ Disallow:/
 User-agent: YoudaoBot
 Disallow:/
 User-agent: Zade
+Disallow:/
+User-agent: Zauba
+Disallow:/
+User-agent: zauba.io
 Disallow:/
 User-agent: Zermelo
 Disallow:/

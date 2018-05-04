@@ -1,4 +1,6 @@
 360Spider
+404checker
+404enemy
 80legs
 Abonti
 Aboundex
@@ -12,6 +14,7 @@ Aipbot
 Alexibot
 Alligator
 AllSubmitter
+AlphaBot
 Anarchie
 Apexoo
 ASPSeek
@@ -30,6 +33,7 @@ Barkrowler
 BatchFTP
 Battleztar\ Bazinga
 BBBike
+BDCbot
 BDFetch
 BetaBot
 Bigfoot
@@ -74,6 +78,8 @@ CopyRightCheck
 Copyscape
 Cosmos
 Craftbot
+crawler4j
+crawler.feedback
 CrazyWebCrawler
 Crescent
 CSHttp
@@ -94,6 +100,7 @@ Disco
 Discobot
 Discoverybot
 DittoSpyder
+DnyzBot
 DomainAppender
 DomainCrawler
 DomainSigmaCrawler
@@ -154,6 +161,7 @@ GrapeFX
 GrapeshotCrawler
 GridBot
 GT::WWW
+Haansoft
 HaosouSpider
 Harvest
 Havij
@@ -172,6 +180,7 @@ Id-search
 IlseBot
 Image\ Fetch
 Image\ Sucker
+IndeedBot
 Indy\ Library
 InfoNaviRobot
 InfoTekies
@@ -185,6 +194,7 @@ ips-agent
 Iria
 IRLbot
 Iskanie
+IstellaBot
 JamesBOT
 Jbrofuzz
 JennyBot
@@ -235,6 +245,7 @@ MarkWatch
 Masscan
 Mass\ Downloader
 Mata\ Hari
+MauiBot
 Meanpathbot
 mediawords
 MegaIndex.ru
@@ -280,6 +291,7 @@ Ninja
 Nmap
 NPbot
 Nutch
+NYU
 oBot
 Octopus
 Offline\ Explorer
@@ -289,6 +301,7 @@ OpenLinkProfiler
 Openvas
 OrangeBot
 OrangeSpider
+OutclicksBot
 OutfoxBot
 PageAnalyzer
 Page\ Analyzer
@@ -340,6 +353,7 @@ SalesIntelligent
 SBIder
 ScanAlert
 Scanbot
+scan.lol
 Scrapy
 Screaming
 ScreenerBot
@@ -356,6 +370,7 @@ SEOstats
 sexsearcher
 Seznam
 SeznamBot
+Shodan
 Siphon
 SISTRIX
 Sitebeam
@@ -501,6 +516,8 @@ Xenu
 xpymep1.exe
 YoudaoBot
 Zade
+Zauba
+zauba.io
 Zermelo
 Zeus
 zgrab
