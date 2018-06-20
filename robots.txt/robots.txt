@@ -1,8 +1,8 @@
 ### Version Information #
 ###################################################
-### Version: V3.2018.05.1107
-### Updated: Thu May 17 07:52:39 SAST 2018
-### Bad Bot Count: 526
+### Version: V3.2018.06.1113
+### Updated: Fri Jun  8 10:43:13 SAST 2018
+### Bad Bot Count: 528
 ###################################################
 ### Version Information ##
 
@@ -529,6 +529,8 @@ User-agent: Mojeek
 Disallow:/
 User-agent: Morfeus Fucking Scanner
 Disallow:/
+User-agent: Mr.4x3
+Disallow:/
 User-agent: MSFrontPage
 Disallow:/
 User-agent: MSIECrawler
@@ -592,8 +594,6 @@ Disallow:/
 User-agent: NPbot
 Disallow:/
 User-agent: Nutch
-Disallow:/
-User-agent: NYU
 Disallow:/
 User-agent: oBot
 Disallow:/
@@ -671,9 +671,13 @@ User-agent: Psbot
 Disallow:/
 User-agent: Pump
 Disallow:/
+User-agent: PxBroker
+Disallow:/
 User-agent: PyCurl
 Disallow:/
 User-agent: QueryN Metasearch
+Disallow:/
+User-agent: Quick-Crawler
 Disallow:/
 User-agent: RankActive
 Disallow:/

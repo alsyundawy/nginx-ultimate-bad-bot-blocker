@@ -258,6 +258,7 @@ Mister PiX
 MJ12bot
 Mojeek
 Morfeus Fucking Scanner
+Mr.4x3
 MSFrontPage
 MSIECrawler
 Msrabot
@@ -290,7 +291,6 @@ Ninja
 Nmap
 NPbot
 Nutch
-NYU
 oBot
 Octopus
 Offline Explorer
@@ -329,8 +329,10 @@ ProPowerBot
 ProWebWalker
 Psbot
 Pump
+PxBroker
 PyCurl
 QueryN Metasearch
+Quick-Crawler
 RankActive
 RankActiveLinkBot
 RankFlex
