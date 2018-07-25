@@ -94,6 +94,7 @@
 "~*\b4pp13\.com\b" 	1;
 "~*\b4rent\.ru\b" 	1;
 "~*\b4replicawatch\.net\b" 	1;
+"~*\b4senses\.co\b" 	1;
 "~*\b4ur\.click\b" 	1;
 "~*\b4ureyesonly\.com\b" 	1;
 "~*\b4webmasters\.com\b" 	1;
@@ -603,7 +604,6 @@
 "~*\bavtolombard\-krasnodar\.ru\b" 	1;
 "~*\bavtovolop\.ru\b" 	1;
 "~*\bawaybird\.ru\b" 	1;
-"~*\baway\.vk\.com\b" 	1;
 "~*\bawency\.com\b" 	1;
 "~*\baxbocz\.net\b" 	1;
 "~*\bayakino\.net\b" 	1;
@@ -790,6 +790,7 @@
 "~*\bbinomo\.kz\b" 	1;
 "~*\bbioca\.org\b" 	1;
 "~*\bbiographiya\.com\b" 	1;
+"~*\bbioinnovate\.co\b" 	1;
 "~*\bbio\-japan\.net\b" 	1;
 "~*\bbio\-market\.kz\b" 	1;
 "~*\bbio\-optomarket\.ru\b" 	1;
@@ -1120,6 +1121,7 @@
 "~*\bcfsrating\.sonicwall\.com\b" 	1;
 "~*\bc\-gainsbourg\.com\b" 	1;
 "~*\bcgi2\.nintendo\.co\.jp\b" 	1;
+"~*\bchangde\.58\.com\b" 	1;
 "~*\bcharmstroy\.info\b" 	1;
 "~*\bchastnoeporno\.com\b" 	1;
 "~*\bchatroulette\.life\b" 	1;
@@ -1190,6 +1192,7 @@
 "~*\bciekawinki\.pl\b" 	1;
 "~*\bcienum\.fr\b" 	1;
 "~*\bcigarpass\.com\b" 	1;
+"~*\bcindymatches\.com\b" 	1;
 "~*\bcineacademy\.ru\b" 	1;
 "~*\bcinemaenergy\-hd\.ru\b" 	1;
 "~*\bcinemaflix\.website\b" 	1;
@@ -1218,6 +1221,7 @@
 "~*\bclean\-start\.net\b" 	1;
 "~*\bclean\-virus\-mac\.com\b" 	1;
 "~*\bclevernt\.com\b" 	1;
+"~*\bclick2pawn\.com\b" 	1;
 "~*\bclickaider\.com\b" 	1;
 "~*\bclickbank\.net\b" 	1;
 "~*\bclickbanksites\.info\b" 	1;
@@ -1491,6 +1495,7 @@
 "~*\bdekorkeramik\.ru\b" 	1;
 "~*\bdelayreferat\.ru\b" 	1;
 "~*\bdelfin\-aqua\.com\.ua\b" 	1;
+"~*\bdelitime\.info\b" 	1;
 "~*\bdellalimov\.com\b" 	1;
 "~*\bdelta\-line\.men\b" 	1;
 "~*\bdeluxedumps\.com\b" 	1;
@@ -1547,6 +1552,7 @@
 "~*\bdiminishedvalueoforegon\.com\b" 	1;
 "~*\bdimkino\.ru\b" 	1;
 "~*\bdinkolove\.ya\.ru\b" 	1;
+"~*\bdinosaurus\.site\b" 	1;
 "~*\bdipstar\.org\b" 	1;
 "~*\bdirectivepub\.com\b" 	1;
 "~*\bdirectrev\.com\b" 	1;
@@ -1681,6 +1687,7 @@
 "~*\beasyukraine\.com\b" 	1;
 "~*\be\-avon\.ru\b" 	1;
 "~*\be\-biznes\.info\b" 	1;
+"~*\bebooknovel\.club\b" 	1;
 "~*\be\-buyeasy\.com\b" 	1;
 "~*\bec\-file\.info\b" 	1;
 "~*\be\-collantes\.com\b" 	1;
@@ -1931,6 +1938,7 @@
 "~*\bfandlr\.com\b" 	1;
 "~*\bfanoboi\.com\b" 	1;
 "~*\bfanpagerobot\.com\b" 	1;
+"~*\bfanrto\.com\b" 	1;
 "~*\bfantasticpixcool\.com\b" 	1;
 "~*\bfaptitans\.com\b" 	1;
 "~*\bfaracontrol\.ir\b" 	1;
@@ -2352,7 +2360,6 @@
 "~*\bgoogle\-liar\.ru\b" 	1;
 "~*\bgooglemare\.com\b" 	1;
 "~*\bgooglepositions\.com\b" 	1;
-"~*\bgoogleweblight\.com\b" 	1;
 "~*\bgooglsucks\.com\b" 	1;
 "~*\bgoogst2\.ru\b" 	1;
 "~*\bgoo\.ne\.jp\b" 	1;
@@ -2444,6 +2451,7 @@
 "~*\bhannasolution\.ru\b" 	1;
 "~*\bhao123\.com\b" 	1;
 "~*\bhappy\.new\.yeartwit\.com\b" 	1;
+"~*\bhard\-porn\.mobi\b" 	1;
 "~*\bhasfun\.com\b" 	1;
 "~*\bhatdc\.org\b" 	1;
 "~*\bhatedriveapart\.com\b" 	1;
@@ -2664,6 +2672,7 @@
 "~*\bimages\-free\.net\b" 	1;
 "~*\bimages\-graphics\-pics\.com\b" 	1;
 "~*\bimages\.gyffu\.com\b" 	1;
+"~*\bimagine\-ex\.co\b" 	1;
 "~*\bimediadesk\.com\b" 	1;
 "~*\bimfamous\.info\b" 	1;
 "~*\bimgarcade\.com\b" 	1;
@@ -2685,6 +2694,7 @@
 "~*\binbabes\.sexushost\.com\b" 	1;
 "~*\binboundlinks\.win\b" 	1;
 "~*\binboxdollars\.com\b" 	1;
+"~*\bincep\.imagine\-ex\.co\b" 	1;
 "~*\binclk\.com\b" 	1;
 "~*\bincolors\.club\b" 	1;
 "~*\bincomekey\.net\b" 	1;
@@ -2696,6 +2706,7 @@
 "~*\bindo\-export\.ru\b" 	1;
 "~*\binet\-traffic\.com\b" 	1;
 "~*\binfazavr\.ru\b" 	1;
+"~*\binfektsii\.com\b" 	1;
 "~*\binfobabki\.ru\b" 	1;
 "~*\binfodocsportal\.com\b" 	1;
 "~*\binfokonkurs\.ru\b" 	1;
@@ -2840,6 +2851,7 @@
 "~*\bjoingames\.org\b" 	1;
 "~*\bjolic2\.com\b" 	1;
 "~*\bjongose\.ninja\b" 	1;
+"~*\bjose\.mulinohouse\.co\b" 	1;
 "~*\bjournalhome\.com\b" 	1;
 "~*\bjourneydownthescale\.info\b" 	1;
 "~*\bjpcycles\.com\b" 	1;
@@ -2919,6 +2931,7 @@
 "~*\bkihi\.gdn\b" 	1;
 "~*\bkiinomaniak\.pl\b" 	1;
 "~*\bkimcurlrvsms\.com\b" 	1;
+"~*\bkino2018\.cc\b" 	1;
 "~*\bkino2018\.club\b" 	1;
 "~*\bkinobaks\.com\b" 	1;
 "~*\bkinobest\.pl\b" 	1;
@@ -3071,6 +3084,7 @@
 "~*\blawyers\.cafe\b" 	1;
 "~*\blawyersinfo\.org\b" 	1;
 "~*\blaxdrills\.com\b" 	1;
+"~*\blaxob\.com\b" 	1;
 "~*\blayola\.biz\.tc\b" 	1;
 "~*\blazymanyoga\.com\b" 	1;
 "~*\blazy\-z\.com\b" 	1;
@@ -3281,6 +3295,7 @@
 "~*\bmanuscript\.su\b" 	1;
 "~*\bmanve\.info\b" 	1;
 "~*\bmanyresultshub\-a\.akamaihd\.net\b" 	1;
+"~*\bmap028\.com\b" 	1;
 "~*\bmapquestz\.us\b" 	1;
 "~*\bmaranbrinfo\.com\.br\b" 	1;
 "~*\bmararoom\.ru\b" 	1;
@@ -3343,6 +3358,7 @@
 "~*\bmedicinacom\.ru\b" 	1;
 "~*\bmedicine\-4u\.org\b" 	1;
 "~*\bmedicines\-choice\.com\b" 	1;
+"~*\bmedicineseasybuy\.com\b" 	1;
 "~*\bmedicovi\.com\b" 	1;
 "~*\bmedictube\.ru\b" 	1;
 "~*\bmedi\-fitt\.hu\b" 	1;
@@ -3466,6 +3482,7 @@
 "~*\bmockupui\.com\b" 	1;
 "~*\bmodabutik\.ru\b" 	1;
 "~*\bmodenamebel\.ru\b" 	1;
+"~*\bmodnie\-futbolki\.net\b" 	1;
 "~*\bmoesen\-ficken\.com\b" 	1;
 "~*\bmoesonce\.com\b" 	1;
 "~*\bmoetomnenie\.com\b" 	1;
@@ -3498,6 +3515,7 @@
 "~*\bmoneyteam24\.com\b" 	1;
 "~*\bmoneytop\.ru\b" 	1;
 "~*\bmoneyviking\-a\.akamaihd\.net\b" 	1;
+"~*\bmoneyzzz\.ru\b" 	1;
 "~*\bmonitorwebsitespeed\.com\b" 	1;
 "~*\bmonsterdivx\.com\b" 	1;
 "~*\bmonsterdivx\.tv\b" 	1;
@@ -3549,6 +3567,7 @@
 "~*\bmsfsaar\.de\b" 	1;
 "~*\bmsk\.afora\.ru\b" 	1;
 "~*\bmsk\-diplomat\.com\b" 	1;
+"~*\bmtmtv\.info\b" 	1;
 "~*\bmttwtrack\.com\b" 	1;
 "~*\bmturkcontent\.com\b" 	1;
 "~*\bmuabancantho\.info\b" 	1;
@@ -3609,6 +3628,7 @@
 "~*\bmylesosibirsk\.ru\b" 	1;
 "~*\bmylida\.org\b" 	1;
 "~*\bmyliveblog\.ru\b" 	1;
+"~*\bmymercy\.info\b" 	1;
 "~*\bmymobilemoneypages\.com\b" 	1;
 "~*\bmyonigroup\.com\b" 	1;
 "~*\bmyonlinepayday\.co\b" 	1;
@@ -3654,6 +3674,7 @@
 "~*\bna\-telefon\.biz\b" 	1;
 "~*\bnationalbreakdown\.com\b" 	1;
 "~*\bnaturalbreakthroughsresearch\.com\b" 	1;
+"~*\bnaturalshair\.site\b" 	1;
 "~*\bnaughtyconnect\.com\b" 	1;
 "~*\bnaval\.jislaaik\.com\b" 	1;
 "~*\bnavalwiki\.info\b" 	1;
@@ -3732,6 +3753,7 @@
 "~*\bnorthfacestore\.online\b" 	1;
 "~*\bnorththeface\.store\b" 	1;
 "~*\bno\-rx\.info\b" 	1;
+"~*\bnoscrapleftbehind\.co\b" 	1;
 "~*\bnosecret\.com\.ua\b" 	1;
 "~*\bnotaria\-desalas\.com\b" 	1;
 "~*\bnotasprensa\.info\b" 	1;
@@ -4156,6 +4178,7 @@
 "~*\bpornonik\.com\b" 	1;
 "~*\bpornophoto\.xyz\b" 	1;
 "~*\bporno\-play\.net\b" 	1;
+"~*\bpornoplen\.com\b" 	1;
 "~*\bporno\-raskazy\.ru\b" 	1;
 "~*\bpornosee\.info\b" 	1;
 "~*\bpornosemki\.info\b" 	1;
@@ -4354,6 +4377,7 @@
 "~*\brandalljhoward\.com\b" 	1;
 "~*\brandki\-sex\.com\b" 	1;
 "~*\brangjued\.com\b" 	1;
+"~*\brangoman\.date\b" 	1;
 "~*\brank\-checker\.online\b" 	1;
 "~*\brankexperience\.com\b" 	1;
 "~*\brankia\.com\b" 	1;
@@ -4531,6 +4555,7 @@
 "~*\brusoft\-zone\.ru\b" 	1;
 "~*\bruspdd\.com\b" 	1;
 "~*\brusprostitute\.com\b" 	1;
+"~*\brussian\-postindex\.ru\b" 	1;
 "~*\brussia\-tao\.ru\b" 	1;
 "~*\brussia\-today\-video\.ru\b" 	1;
 "~*\brussintv\.fr\b" 	1;
@@ -4558,6 +4583,7 @@
 "~*\bsaletool\.ru\b" 	1;
 "~*\bsa\-live\.com\b" 	1;
 "~*\bsalmonfishingsacramentoriver\.com\b" 	1;
+"~*\bsalut\-camp\.ru\b" 	1;
 "~*\bsalutmontreal\.com\b" 	1;
 "~*\bsamara\.rosfirm\.ru\b" 	1;
 "~*\bsammlungfotos\.online\b" 	1;
@@ -4898,6 +4924,7 @@
 "~*\bsky\-mine\.ru\b" 	1;
 "~*\bskytraf\.xyz\b" 	1;
 "~*\bskyway24\.ru\b" 	1;
+"~*\bsladkoevideo\.com\b" 	1;
 "~*\bslavia\.info\b" 	1;
 "~*\bslavic\-magic\.ru\b" 	1;
 "~*\bslavkokacunko\.de\b" 	1;
@@ -5115,6 +5142,7 @@
 "~*\bstroyplus\.ru\b" 	1;
 "~*\bstroy\-portal22\.ru\b" 	1;
 "~*\bstrv\.se\b" 	1;
+"~*\bstudents\-cheapskate\.ml\b" 	1;
 "~*\bstudiofaca\.com\b" 	1;
 "~*\bstuff\-about\-money\.com\b" 	1;
 "~*\bstyro\.ru\b" 	1;
@@ -5173,6 +5201,7 @@
 "~*\bsygraem\.com\b" 	1;
 "~*\bsymbaloo\.com\b" 	1;
 "~*\bsymphonyintegratedhealthcare\.com\b" 	1;
+"~*\bsyndicate\.fun\b" 	1;
 "~*\bsyvertsen\-da\.no\b" 	1;
 "~*\bszamponrevita\.pl\b" 	1;
 "~*\bszucs\.ru\b" 	1;
@@ -5679,6 +5708,7 @@
 "~*\bvia\-energy\-cumpara\.com\b" 	1;
 "~*\bvia\-energy\-order\.com\b" 	1;
 "~*\bviagra\.pp\.ua\b" 	1;
+"~*\bviagra\-soft\.ru\b" 	1;
 "~*\bvia\-gra\.webstarts\.com\b" 	1;
 "~*\bviagroid\.ru\b" 	1;
 "~*\bviandpet\.com\b" 	1;
@@ -5815,6 +5845,7 @@
 "~*\bwatch\-movies\.ru\b" 	1;
 "~*\bwatchmyfb\.pl\b" 	1;
 "~*\bwatchmygf\.net\b" 	1;
+"~*\bwaterefficiency\.co\b" 	1;
 "~*\bwaterpurifier\.club\b" 	1;
 "~*\bwatsonrealtycorp\.com\b" 	1;
 "~*\bwaycash\.net\b" 	1;
@@ -6063,6 +6094,7 @@
 "~*\bxn\-\-80ak6aa92e\.com\b" 	1;
 "~*\bxn\-\-80aodinpgi\.xn\-\-p1ai\b" 	1;
 "~*\bxn\-\-\-\-\-8kcatubaocd1bneepefojs1h2e\.xn\-\-p1ai\b" 	1;
+"~*\bxn\-\-\-\-8sbarihbihxpxqgaf0g1e\.xn\-\-80adxhks\b" 	1;
 "~*\bxn\-\-\-\-8sbdbjgb1ap7a9c4czbh\.xn\-\-p1acf\b" 	1;
 "~*\bxn\-\-\-\-8sbhefaln6acifdaon5c6f4axh\.xn\-\-p1ai\b" 	1;
 "~*\bxn\-\-90acenikpebbdd4f6d\.xn\-\-p1ai\b" 	1;

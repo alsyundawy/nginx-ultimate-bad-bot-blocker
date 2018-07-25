@@ -94,6 +94,7 @@ domain:4kplayer.pl
 domain:4pp13.com
 domain:4rent.ru
 domain:4replicawatch.net
+domain:4senses.co
 domain:4ur.click
 domain:4ureyesonly.com
 domain:4webmasters.com
@@ -602,7 +603,6 @@ domain:avtointeres.ru
 domain:avtolombard-krasnodar.com
 domain:avtolombard-krasnodar.ru
 domain:avtovolop.ru
-domain:away.vk.com
 domain:awaybird.ru
 domain:awency.com
 domain:axbocz.net
@@ -795,6 +795,7 @@ domain:bio-optomarket.ru
 domain:bio.trade-jp.net
 domain:bioca.org
 domain:biographiya.com
+domain:bioinnovate.co
 domain:bioscorp.ru
 domain:bird1.ru
 domain:birzha-truda.eu
@@ -1120,6 +1121,7 @@ domain:cfcl.co.uk
 domain:cfjump.com
 domain:cfsrating.sonicwall.com
 domain:cgi2.nintendo.co.jp
+domain:changde.58.com
 domain:charmstroy.info
 domain:chastnoeporno.com
 domain:chatroulette.life
@@ -1191,6 +1193,7 @@ domain:cicaki.net
 domain:ciekawinki.pl
 domain:cienum.fr
 domain:cigarpass.com
+domain:cindymatches.com
 domain:cineacademy.ru
 domain:cinemaenergy-hd.ru
 domain:cinemaflix.website
@@ -1219,6 +1222,7 @@ domain:cleanmypc.com
 domain:cleanpcnow.com
 domain:cleansearch.net
 domain:clevernt.com
+domain:click2pawn.com
 domain:clickaider.com
 domain:clickbank.net
 domain:clickbanksites.info
@@ -1492,6 +1496,7 @@ domain:dekoration.us
 domain:dekorkeramik.ru
 domain:delayreferat.ru
 domain:delfin-aqua.com.ua
+domain:delitime.info
 domain:dellalimov.com
 domain:delta-line.men
 domain:deluxedumps.com
@@ -1547,6 +1552,7 @@ domain:dimaka.info
 domain:diminishedvalueoforegon.com
 domain:dimkino.ru
 domain:dinkolove.ya.ru
+domain:dinosaurus.site
 domain:dipstar.org
 domain:directivepub.com
 domain:directrev.com
@@ -1687,6 +1693,7 @@ domain:easync.io
 domain:easyshoppermac.com
 domain:easytuningshop.ru
 domain:easyukraine.com
+domain:ebooknovel.club
 domain:ec-file.info
 domain:ecommerce-seo.com
 domain:ecommerce-seo.org
@@ -1933,6 +1940,7 @@ domain:famix.xyz
 domain:fandlr.com
 domain:fanoboi.com
 domain:fanpagerobot.com
+domain:fanrto.com
 domain:fantasticpixcool.com
 domain:faptitans.com
 domain:faracontrol.ir
@@ -2354,7 +2362,6 @@ domain:google-liar.ru
 domain:googlefeud.com
 domain:googlemare.com
 domain:googlepositions.com
-domain:googleweblight.com
 domain:googlsucks.com
 domain:googst2.ru
 domain:goosefishpost.bid
@@ -2444,6 +2451,7 @@ domain:hanink.biz.ly
 domain:hannasolution.ru
 domain:hao123.com
 domain:happy.new.yeartwit.com
+domain:hard-porn.mobi
 domain:hasfun.com
 domain:hatdc.org
 domain:hatedriveapart.com
@@ -2666,6 +2674,7 @@ domain:imagerydatabase.com
 domain:images-free.net
 domain:images-graphics-pics.com
 domain:images.gyffu.com
+domain:imagine-ex.co
 domain:imediadesk.com
 domain:imfamous.info
 domain:img.wallpaperstock.net
@@ -2686,6 +2695,7 @@ domain:impresagaia.it
 domain:inbabes.sexushost.com
 domain:inboundlinks.win
 domain:inboxdollars.com
+domain:incep.imagine-ex.co
 domain:inclk.com
 domain:incolors.club
 domain:incomekey.net
@@ -2697,6 +2707,7 @@ domain:indiasourcemart.in
 domain:indo-export.ru
 domain:inet-traffic.com
 domain:infazavr.ru
+domain:infektsii.com
 domain:infobabki.ru
 domain:infodocsportal.com
 domain:infokonkurs.ru
@@ -2841,6 +2852,7 @@ domain:johnrobertsoninc.com
 domain:joingames.org
 domain:jolic2.com
 domain:jongose.ninja
+domain:jose.mulinohouse.co
 domain:journalhome.com
 domain:journeydownthescale.info
 domain:jpcycles.com
@@ -2924,6 +2936,7 @@ domain:kino-filmi.com
 domain:kino-fun.ru
 domain:kino-key.info
 domain:kino-rating.ru
+domain:kino2018.cc
 domain:kino2018.club
 domain:kinobaks.com
 domain:kinobest.pl
@@ -3071,6 +3084,7 @@ domain:law-check-two.xyz
 domain:lawyers.cafe
 domain:lawyersinfo.org
 domain:laxdrills.com
+domain:laxob.com
 domain:layola.biz.tc
 domain:lazy-z.com
 domain:lazymanyoga.com
@@ -3283,6 +3297,7 @@ domain:manualterap.roleforum.ru
 domain:manuscript.su
 domain:manve.info
 domain:manyresultshub-a.akamaihd.net
+domain:map028.com
 domain:mapquestz.us
 domain:maranbrinfo.com.br
 domain:mararoom.ru
@@ -3347,6 +3362,7 @@ domain:mediawhirl.net
 domain:medicinacom.ru
 domain:medicine-4u.org
 domain:medicines-choice.com
+domain:medicineseasybuy.com
 domain:medicovi.com
 domain:medictube.ru
 domain:medispainstitute.com.au
@@ -3466,6 +3482,7 @@ domain:mobstarr.com
 domain:mockupui.com
 domain:modabutik.ru
 domain:modenamebel.ru
+domain:modnie-futbolki.net
 domain:moesen-ficken.com
 domain:moesonce.com
 domain:moetomnenie.com
@@ -3498,6 +3515,7 @@ domain:moneymaster.ru
 domain:moneyteam24.com
 domain:moneytop.ru
 domain:moneyviking-a.akamaihd.net
+domain:moneyzzz.ru
 domain:monitorwebsitespeed.com
 domain:monsterdivx.com
 domain:monsterdivx.tv
@@ -3549,6 +3567,7 @@ domain:mrwhite.biz
 domain:msfsaar.de
 domain:msk-diplomat.com
 domain:msk.afora.ru
+domain:mtmtv.info
 domain:mttwtrack.com
 domain:mturkcontent.com
 domain:muabancantho.info
@@ -3609,6 +3628,7 @@ domain:mykings.pw
 domain:mylesosibirsk.ru
 domain:mylida.org
 domain:myliveblog.ru
+domain:mymercy.info
 domain:mymobilemoneypages.com
 domain:myonigroup.com
 domain:myonlinepayday.co
@@ -3654,6 +3674,7 @@ domain:nastydollars.com
 domain:nate.com
 domain:nationalbreakdown.com
 domain:naturalbreakthroughsresearch.com
+domain:naturalshair.site
 domain:naughtyconnect.com
 domain:naval.jislaaik.com
 domain:navalwiki.info
@@ -3732,6 +3753,7 @@ domain:nordvpn.com
 domain:normalegal.ru
 domain:northfacestore.online
 domain:norththeface.store
+domain:noscrapleftbehind.co
 domain:nosecret.com.ua
 domain:notaria-desalas.com
 domain:notasprensa.info
@@ -4161,6 +4183,7 @@ domain:pornokorol.com
 domain:pornolook.net
 domain:pornonik.com
 domain:pornophoto.xyz
+domain:pornoplen.com
 domain:pornosee.info
 domain:pornosemki.info
 domain:pornoslive.net
@@ -4356,6 +4379,7 @@ domain:raisedseo.com
 domain:randalljhoward.com
 domain:randki-sex.com
 domain:rangjued.com
+domain:rangoman.date
 domain:rank-checker.online
 domain:rankexperience.com
 domain:rankia.com
@@ -4534,6 +4558,7 @@ domain:ruspdd.com
 domain:rusprostitute.com
 domain:russia-tao.ru
 domain:russia-today-video.ru
+domain:russian-postindex.ru
 domain:russintv.fr
 domain:russkie-gorki.ru
 domain:russkoe-zdorovie.ru
@@ -4561,6 +4586,7 @@ domain:sakhboard.ru
 domain:sale-japan.com
 domain:saletool.ru
 domain:salmonfishingsacramentoriver.com
+domain:salut-camp.ru
 domain:salutmontreal.com
 domain:samara.rosfirm.ru
 domain:sammlungfotos.online
@@ -4899,6 +4925,7 @@ domain:sky-mine.ru
 domain:skylta.com
 domain:skytraf.xyz
 domain:skyway24.ru
+domain:sladkoevideo.com
 domain:slavia.info
 domain:slavic-magic.ru
 domain:slavkokacunko.de
@@ -5115,6 +5142,7 @@ domain:stroyhelp-dv.ru
 domain:stroymonolit.su
 domain:stroyplus.ru
 domain:strv.se
+domain:students-cheapskate.ml
 domain:studiofaca.com
 domain:stuff-about-money.com
 domain:styro.ru
@@ -5173,6 +5201,7 @@ domain:swsociety.se
 domain:sygraem.com
 domain:symbaloo.com
 domain:symphonyintegratedhealthcare.com
+domain:syndicate.fun
 domain:syvertsen-da.no
 domain:szamponrevita.pl
 domain:szucs.ru
@@ -5679,6 +5708,7 @@ domain:via-energy-acquistare.com
 domain:via-energy-cumpara.com
 domain:via-energy-order.com
 domain:via-gra.webstarts.com
+domain:viagra-soft.ru
 domain:viagra.pp.ua
 domain:viagroid.ru
 domain:viandpet.com
@@ -5816,6 +5846,7 @@ domain:watchdogs-2.ru
 domain:watchinf.com
 domain:watchmyfb.pl
 domain:watchmygf.net
+domain:waterefficiency.co
 domain:waterpurifier.club
 domain:watsonrealtycorp.com
 domain:waycash.net
@@ -6046,6 +6077,7 @@ domain:xn----7sbbagbq7bd5aheftfllo4m.xn--p1ai
 domain:xn----7sbbahaq9bb5afgiqfliv4m.xn--p1ai
 domain:xn----7sbho2agebbhlivy.xn--p1ai
 domain:xn----7sbifcamovvfggw9d.xn--p1ai
+domain:xn----8sbarihbihxpxqgaf0g1e.xn--80adxhks
 domain:xn----8sbdbjgb1ap7a9c4czbh.xn--p1acf
 domain:xn----8sbhefaln6acifdaon5c6f4axh.xn--p1ai
 domain:xn----9sbebi2bvzr7h.xn--p1ai
