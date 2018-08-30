@@ -1,8 +1,14 @@
+###################################################################
+# The Ultimate robots.txt Bot and User-Agent Blocker
+# Copyright:
+# https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
+###################################################################
+
 ### Version Information #
 ###################################################
-### Version: V3.2018.07.1141
-### Updated: Tue Jul 24 09:27:50 SAST 2018
-### Bad Bot Count: 529
+### Version: V3.2018.08.1184
+### Updated: Thu Aug 30 11:19:30 SAST 2018
+### Bad Bot Count: 534
 ###################################################
 ### Version Information ##
 
@@ -46,6 +52,8 @@ Disallow:/
 User-agent: Anarchie
 Disallow:/
 User-agent: Apexoo
+Disallow:/
+User-agent: archive.org_bot
 Disallow:/
 User-agent: ASPSeek
 Disallow:/
@@ -173,6 +181,8 @@ User-agent: crawler4j
 Disallow:/
 User-agent: crawler.feedback
 Disallow:/
+User-agent: crawl.sogou.com
+Disallow:/
 User-agent: CrazyWebCrawler
 Disallow:/
 User-agent: Crescent
@@ -290,6 +300,8 @@ Disallow:/
 User-agent: Freeuploader
 Disallow:/
 User-agent: FrontPage
+Disallow:/
+User-agent: FyberSpider
 Disallow:/
 User-agent: Fyrebot
 Disallow:/
@@ -795,6 +807,8 @@ User-agent: Snoopy
 Disallow:/
 User-agent: SocialRankIOBot
 Disallow:/
+User-agent: sogouspider
+Disallow:/
 User-agent: Sogou web spider
 Disallow:/
 User-agent: Sosospider
@@ -872,6 +886,8 @@ Disallow:/
 User-agent: Toata
 Disallow:/
 User-agent: Toweyabot
+Disallow:/
+User-agent: Tracemyfile
 Disallow:/
 User-agent: Trendiction
 Disallow:/

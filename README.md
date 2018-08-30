@@ -4,9 +4,9 @@
 ##### The Ultimate Nginx Bad Bot, User-Agent, Spam Referrer Blocker, Adware, Malware and Ransomware Blocker, Clickjacking Blocker, Click Re-Directing Blocker, SEO Companies and Bad IP Blocker with Anti DDOS System, Nginx Rate Limiting and Wordpress Theme Detector Blocking. Stop and Block all kinds of bad internet traffic from ever reaching your web sites. [PLEASE SEE: Definition of Bad Bots](#define-bad-bots)
 
 _______________
-#### Version: V3.2018.07.1141
-#### Bad Referrer Count: 6332
-#### Bad Bot Count: 529
+#### Version: V3.2018.08.1184
+#### Bad Referrer Count: 6418
+#### Bad Bot Count: 534
 ____________________
 
 ## Help Support This Project 
@@ -16,7 +16,7 @@ ____________________
 ************************************************
 - Created by: https://github.com/mitchellkrogza for use on Nginx Web Server https://www.nginx.com/
 - Copyright Mitchell Krog <mitchellkrog@gmail.com>
-- Tested on Nginx 1.10 > 1.13
+- Tested on Nginx **1.10 > 1.15**
 ************************************************
 
 Not Using Nginx? See the [![Get the APACHE ULTIMATE BAD BOT BLOCKER](https://img.shields.io/badge/APACHE%20-%20ULTIMATE%20BAD%20BOT%20BLOCKER%20%E2%9B%94-blue.svg)](https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker)
@@ -48,10 +48,13 @@ Please make sure you are subscribed to notifications to be notified when the blo
 - setup-ngxblocker, install-ngxblocker and update-ngxblocker can all be configured with custom installation / update locations from the command line. **(See Step 11 of the instructions to show you how use these scripts and non-standard Nginx locations)**
 
 - Run any of the setup, install or update scripts with --help or -h to view options.
+
+> PLEASE NOTE: For those using Let's Encrypt SSL Certificates the preferred and 100% working method is to use the **Webroot Authenticator Method**. There appears to be some issues with people using the http challenge method but can confirm that webroot work flawlessly. We are uncertain at this point whether the http-01 challenge method is a certbot or nginx bug.
+
 ************************************************
 <img src="https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/blob/master/.assets/step-1.png"/>
 
-Download install-ngxblocker to your /usr/sbin/directory and make the script executable.
+Download install-ngxblocker to your /usr/local/sbin/directory and make the script executable.
 
 ```
 sudo wget https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master/install-ngxblocker -O /usr/local/sbin/install-ngxblocker
@@ -233,7 +236,7 @@ Whitelisting ip:  x.x.x.x  => /etc/nginx/bots.d/whitelist-ips.conf
 
 You will note it has done the includes in all the .vhost files on my test bed server and also whitelisted your own IP address in the whitelist-ips.conf file for you. Further IP's or IP ranges can be added to your customizable whitelits-ips.conf file located in /etc/nginx/bots.d/whitelist-ips.conf.
 
-What this setup script has done has simply added the following include statements into your .vhost files for you.
+What this setup script has done has simply added the following include statements into your .vhost files for you, it also adds /etc/nginx/conf.d/* to the includes in nginx.conf (if not already in nginx.conf), otherwise, the whole script will fail.
 
 ```
 # Bad Bot Blocker

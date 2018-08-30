@@ -45,22 +45,22 @@
 # Set Input Files
 # ***************
 
-_input1=$TRAVIS_BUILD_DIR/_generator_lists/bad-user-agents.list
+_input1=${TRAVIS_BUILD_DIR}/_generator_lists/bad-user-agents.list
 _tmprobots=/tmp/robots.txt
-_inputtmp=$TRAVIS_BUILD_DIR/.dev-tools/_robots_input/robots.tmp
-_output=$TRAVIS_BUILD_DIR/.dev-tools/_robots_input/robots-input.txt
+_inputtmp=${TRAVIS_BUILD_DIR}/.dev-tools/_robots_input/robots.tmp
+_output=${TRAVIS_BUILD_DIR}/.dev-tools/_robots_input/robots-input.txt
 
 # ***********************
 # Truncate our input file
 # ***********************
 
-sudo truncate -s 0 $_output
+sudo truncate -s 0 ${_output}
 
 # *************************************
 # Use sed to prepare our new input file
 # *************************************
 
-cat $_input1 | sed 's/\\ / /g' > $_inputtmp && mv $_inputtmp $_output
+cat ${_input1} | sed 's/\\ / /g' > ${_inputtmp} && mv ${_inputtmp} ${_output}
 
 # ******************
 # Set Some Variables
@@ -68,9 +68,9 @@ cat $_input1 | sed 's/\\ / /g' > $_inputtmp && mv $_inputtmp $_output
 
 YEAR=$(date +"%Y")
 MONTH=$(date +"%m")
-MY_GIT_TAG=V3.$YEAR.$MONTH.$TRAVIS_BUILD_NUMBER
-BAD_REFERRERS=$(wc -l < $TRAVIS_BUILD_DIR/_generator_lists/bad-referrers.list)
-BAD_BOTS=$(wc -l < $TRAVIS_BUILD_DIR/_generator_lists/bad-user-agents.list)
+MY_GIT_TAG=V3.${YEAR}.${MONTH}.${TRAVIS_BUILD_NUMBER}
+BAD_REFERRERS=$(wc -l < ${TRAVIS_BUILD_DIR}/_generator_lists/bad-referrers.list)
+BAD_BOTS=$(wc -l < ${TRAVIS_BUILD_DIR}/_generator_lists/bad-user-agents.list)
 _now="$(date)"
 
 # *************************
@@ -85,14 +85,22 @@ _endmarker="### Version Information ##"
 # Create the robots.txt file
 # **************************
 
-printf '%s\n%s\n%s%s\n%s%s\n%s%s\n%s\n%s\n\n%s\n%s\n%s\n' "$_startmarker" "###################################################" "### Version: " "$MY_GIT_TAG" "### Updated: " "$_now" "### Bad Bot Count: " "$BAD_BOTS" "###################################################" "$_endmarker" "User-agent: *" "Disallow: /wp-admin/" "Allow: /wp-admin/admin-ajax.php" >> "$_tmprobots"
+printf '###################################################################\n# The Ultimate robots.txt Bot and User-Agent Blocker\n# Copyright:\n# https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker\n###################################################################\n\n' >> "${_tmprobots}"
+
+printf '%s\n%s\n%s%s\n%s%s\n%s%s\n%s\n%s\n\n%s\n%s\n%s\n' "$_startmarker" "###################################################" "### Version: " "$MY_GIT_TAG" "### Updated: " "$_now" "### Bad Bot Count: " "$BAD_BOTS" "###################################################" "$_endmarker" "User-agent: *" "Disallow: /wp-admin/" "Allow: /wp-admin/admin-ajax.php" >> "${_tmprobots}"
+
 while IFS= read -r LINE
 do
-printf 'User-agent: %s\n%s\n' "${LINE}" "Disallow:/" >> "$_tmprobots"
-done < $_output
-printf '\n' >> "$_tmprobots"
-sudo cp $_tmprobots $TRAVIS_BUILD_DIR/robots.txt/robots.txt
-exit 0
+printf 'User-agent: %s\n%s\n' "${LINE}" "Disallow:/" >> "${_tmprobots}"
+done < ${_output}
+printf '\n' >> ${_tmprobots}
+sudo cp ${_tmprobots} ${TRAVIS_BUILD_DIR}/robots.txt/robots.txt
+
+# **********************
+# Exit With Error Number
+# **********************
+
+exit ${?}
 
 # MIT License
 
