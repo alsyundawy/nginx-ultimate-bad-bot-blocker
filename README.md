@@ -4,8 +4,8 @@
 ##### The Ultimate Nginx Bad Bot, User-Agent, Spam Referrer Blocker, Adware, Malware and Ransomware Blocker, Clickjacking Blocker, Click Re-Directing Blocker, SEO Companies and Bad IP Blocker with Anti DDOS System, Nginx Rate Limiting and Wordpress Theme Detector Blocking. Stop and Block all kinds of bad internet traffic from ever reaching your web sites. [PLEASE SEE: Definition of Bad Bots](#define-bad-bots)
 
 _______________
-#### Version: V3.2018.08.1184
-#### Bad Referrer Count: 6418
+#### Version: V3.2019.01.1300
+#### Bad Referrer Count: 6453
 #### Bad Bot Count: 534
 ____________________
 
@@ -22,17 +22,13 @@ ____________________
 Not Using Nginx? See the [![Get the APACHE ULTIMATE BAD BOT BLOCKER](https://img.shields.io/badge/APACHE%20-%20ULTIMATE%20BAD%20BOT%20BLOCKER%20%E2%9B%94-blue.svg)](https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker)
 
 ************************************************
-### Update Notification System - Stay up to date on New Builds and Major Feature Changes 
+### For Support, Contributions & Idea Sharing
 
-**It is important to please**
+<a href="https://keybase.io/team/nginxbotblocker">Join the Team on Keybase<img src="https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/blob/master/.assets/keybase.png"/></a>
 
-- <a href="https://groups.google.com/forum/#!forum/nginx-ultimate-bad-bot-blocker">Join the Google Group Mailing List</a> 
-- <a href="mailto:nginx-ultimate-bad-bot-blocker+subscribe@googlegroups.com">Click Here to Join Mailing List via Email</a>
-- <a href="mailto:mitchellkrog@gmail.com?subject=Please Add Me To the Slack Channel (Nginx Bad Bot Blocker)">Ask For an Invite to<img src="https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/blob/master/.assets/slack.png"/></a>
+Please make sure you are subscribed to Github Notifications to be notified when the blocker is updated or when any important or mission critical (potentially breaking) changes may take place.
 
-Please make sure you are subscribed to notifications to be notified when the blocker is updated and also to be notified when any important or mission critical (potentially breaking) changes take place.
-
-##### Also follow me on twitter @ubuntu101za for update notifications
+##### Also follow me on twitter @ubuntu101za 
 
 <a href='https://twitter.com/ubuntu101za'><img src='https://img.shields.io/twitter/follow/ubuntu101za.svg?style=social&label=Follow' alt='Follow @ubuntu101za'></a>
 ************************************************

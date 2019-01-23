@@ -90,6 +90,8 @@ domain:45en.ru
 domain:4inn.ru
 domain:4istoshop.com
 domain:4k-player.pl
+domain:4kepics.com
+domain:4kpics.rocks
 domain:4kplayer.pl
 domain:4pp13.com
 domain:4rent.ru
@@ -256,6 +258,7 @@ domain:adultmeetonline.info
 domain:adultnet.in
 domain:adultwebhosting.info
 domain:advancedcleaner.com
+domain:advancedmassagebysara.com
 domain:advancedsoftwaresupport.com
 domain:adventureparkcostarica.com
 domain:adverster.com
@@ -527,6 +530,7 @@ domain:ascat.porn
 domain:asdfg.pro
 domain:asdfz.pro
 domain:asia-forum.ru
+domain:asiavirtualsolutions.com
 domain:asiengirls.net
 domain:asmxsatadriverin.aircus.com
 domain:asociatia-tipografilor-transilvania.ro
@@ -772,6 +776,7 @@ domain:bezlimitko.xyz
 domain:bezsporno.ru
 domain:beztuberkuleza.ru
 domain:bfz.biz
+domain:bg6s0.com
 domain:bharatdefencekavach.com
 domain:bibys.com
 domain:bidbuy.co.kr
@@ -833,6 +838,7 @@ domain:blackwitchcraft.ru
 domain:blagovest-med.ru
 domain:blavia.00author.com
 domain:blobar.org
+domain:blockety.co
 domain:blockworld.ru
 domain:blog-hits.com
 domain:blog.axant.it
@@ -851,6 +857,7 @@ domain:blogporn.in
 domain:blogqpot.com
 domain:blogrankers.com
 domain:blogs.rediff.com
+domain:blogsfunky672.weebly.com
 domain:bloke.com
 domain:blpmovies.com
 domain:blue-square.biz
@@ -1463,6 +1470,7 @@ domain:dangphoto.trade
 domain:danschawbel.com
 domain:daooda.com
 domain:daptravel.com
+domain:daretodonate.co
 domain:darkages.info
 domain:darkbooks.org
 domain:darmebel.com.ua
@@ -1890,6 +1898,7 @@ domain:exct.net
 domain:exdocsfiles.com
 domain:executehosting.com
 domain:exhibitionplus.eu
+domain:exlarseva.webblog.es
 domain:exmasters.com
 domain:exoclick.com
 domain:exoneration-project.us
@@ -2022,6 +2031,7 @@ domain:filkhbr.com
 domain:fillmewithhappiness.com
 domain:film-one.ru
 domain:filmbokep69.com
+domain:filmci.pro
 domain:filmetricsasia.com
 domain:filmfanatic.com
 domain:filmgo.ru
@@ -2130,6 +2140,7 @@ domain:foxweber.com
 domain:foxydeal.com
 domain:fr-bearings.ru
 domain:fr.netlog.com
+domain:franch.info
 domain:franecki.net
 domain:franklinfire.co
 domain:frbizlist.com
@@ -2378,6 +2389,7 @@ domain:goodhousekeeping.com
 domain:goodhumor24.com
 domain:goodnightjournal.com
 domain:goodprotein.ru
+domain:goodwinmetals.co
 domain:goodwriterssales.com
 domain:googglet.com
 domain:google-liar.ru
@@ -2434,6 +2446,7 @@ domain:gsasearchengineranker.space
 domain:gsasearchengineranker.top
 domain:gsasearchengineranker.xyz
 domain:gsasearchenginerankerdiscount.com
+domain:gsasearchenginerankerhelp.com
 domain:gsbs.com.ua
 domain:gsmlab.pl
 domain:gsmtlf.ru
@@ -2476,6 +2489,7 @@ domain:hanwei.us
 domain:hao123.com
 domain:happy.new.yeartwit.com
 domain:hard-porn.mobi
+domain:harmonyglen.us
 domain:hasfun.com
 domain:hatdc.org
 domain:hatedriveapart.com
@@ -2547,6 +2561,7 @@ domain:hildinghr.se
 domain:histats.com
 domain:histock.info
 domain:historichometeam.com
+domain:hit-kino.ru
 domain:hit-men.men
 domain:hitcpm.com
 domain:hitsbox.info
@@ -2720,6 +2735,7 @@ domain:import-sales.com
 domain:importchinacoach-teach.com
 domain:impotentik.com
 domain:impresagaia.it
+domain:in-tandem.co
 domain:inbabes.sexushost.com
 domain:inboundlinks.win
 domain:inboxdollars.com
@@ -2801,9 +2817,11 @@ domain:iqupdatetmz.win
 domain:iradiology.ru
 domain:irkutsk.online-podarki.com
 domain:irkutsk.zrus.org
+domain:iron-age.info
 domain:irunfar.com
 domain:iscblog.info
 domain:isistaylorporn.info
+domain:isitpaleo.info
 domain:iskalko.ru
 domain:islamtoday.co.za
 domain:islandminingsupply.wordpress.com
@@ -2819,6 +2837,7 @@ domain:istmira.ru
 domain:istock-mebel.ru
 domain:istripper.com
 domain:it-max.com.ua
+domain:itag.pw
 domain:itbc.kiev.ua
 domain:itch.io
 domain:itis4you.com
@@ -2845,6 +2864,7 @@ domain:j-times.ru
 domain:j33x.com
 domain:jacago.com
 domain:jackwolfskinoutlet.online
+domain:james13prix.info
 domain:jamiembrown.com
 domain:janavibekken.no
 domain:janerikholst.se
@@ -2907,6 +2927,7 @@ domain:kaac.ru
 domain:kabbalah-red-bracelets.com
 domain:kadashihotel.com
 domain:kaidalibor.de
+domain:kakablog.net
 domain:kalandranis.gr
 domain:kalb.ru
 domain:kaliningrad.zrus.org
@@ -2928,6 +2949,7 @@ domain:kartiniresto.com
 domain:karusel-market.ru
 domain:kashubadesign.ru
 domain:kasino-money.pw
+domain:katadhin.co
 domain:katjimej.blog.fc2.com
 domain:katushka.net
 domain:kaz.kz
@@ -2938,6 +2960,7 @@ domain:kazka.ru
 domain:kazrent.com
 domain:kchaxton.com
 domain:keenoutlet.online
+domain:keki.info
 domain:kemerovo.zrus.org
 domain:kenaba.su
 domain:kerch.site
@@ -2945,9 +2968,12 @@ domain:kerei.ru
 domain:kerwinandcariza.com
 domain:ketoanhanoi.info
 domain:ketrzyn.pl
+domain:kevblog.top
 domain:keyhantercume.com
+domain:keywesthideaways.co
 domain:keyword-suggestions.com
 domain:keywordblocks.com
+domain:keywordglobal.co.za
 domain:keywordhut.com
 domain:keywords-monitoring-success.com
 domain:keywords-monitoring-your-success.com
@@ -3886,6 +3912,7 @@ domain:okmusic.jp
 domain:okonich.com.ua
 domain:okout.ru
 domain:okroshki.ru
+domain:oksrv.com
 domain:oktube.ru
 domain:okuos.com
 domain:old-rock.com
@@ -4006,6 +4033,7 @@ domain:panamaforbeginners.com
 domain:panchro.co.uk
 domain:panchro.xyz
 domain:pandarastore.top
+domain:pandroid.co
 domain:panouri-solare-acoperis.com
 domain:paparazzistudios.com.au
 domain:papasdelivery.ru
@@ -4183,6 +4211,7 @@ domain:pogodnyyeavarii.gq
 domain:pogosh.com
 domain:pogruztehnik.ru
 domain:poisk-zakona.ru
+domain:poiskzakona.ru
 domain:pojdelo.weebly.com
 domain:pokemon-go-play.online
 domain:pokemongooo.ml
@@ -4642,6 +4671,7 @@ domain:sad-torg.com.ua
 domain:sadaholding.com
 domain:saddiechoua.com
 domain:sady-urala.ru
+domain:saecsa.co
 domain:safe-app.net
 domain:saitevpatorii.com
 domain:sajatvelemeny.com
@@ -5085,6 +5115,7 @@ domain:sonata-arctica.wz.cz
 domain:songoo.wz.cz
 domain:songplanet.ru
 domain:sonnikforme.ru
+domain:soochi.co
 domain:sophang8.com
 domain:sortthemesitesby.com
 domain:sosdepotdebilan.com
@@ -5253,6 +5284,7 @@ domain:surgut.zrus.org
 domain:surintech.ac.th
 domain:survival.betteroffers.review
 domain:susanholtphotography.com
+domain:suture.co
 domain:svarbit.com
 domain:svarkagid.com
 domain:svbur.ru
@@ -5310,6 +5342,7 @@ domain:taxi-v-eisk.ru
 domain:taximytishi.ru
 domain:td-33.ru
 domain:td-l-market.ru
+domain:tds-advert002.info
 domain:tds-advert005.info
 domain:tdsing.ru
 domain:teastory.co
@@ -5855,6 +5888,7 @@ domain:vizitki.net
 domain:vk-mus.ru
 domain:vkak.ru
 domain:vkgaleria.com
+domain:vkmusics.ru
 domain:vkonche.com
 domain:vkontaktemusic.ru
 domain:vkontarkte.com
@@ -6076,6 +6110,7 @@ domain:worldmusicfests.com
 domain:worldoffiles.ru
 domain:worldtraveler.world
 domain:wormix-cheats.ru
+domain:worst-sites.online
 domain:wosik-dach.service-for-web.de
 domain:wowas31.ucoz.ru
 domain:woweb.com.ua

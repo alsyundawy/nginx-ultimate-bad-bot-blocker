@@ -89,6 +89,8 @@
 "~*\b45en\.ru\b" 	1;
 "~*\b4inn\.ru\b" 	1;
 "~*\b4istoshop\.com\b" 	1;
+"~*\b4kepics\.com\b" 	1;
+"~*\b4kpics\.rocks\b" 	1;
 "~*\b4k\-player\.pl\b" 	1;
 "~*\b4kplayer\.pl\b" 	1;
 "~*\b4pp13\.com\b" 	1;
@@ -253,6 +255,7 @@
 "~*\badult\-shop\.com\.ua\b" 	1;
 "~*\badultwebhosting\.info\b" 	1;
 "~*\badvancedcleaner\.com\b" 	1;
+"~*\badvancedmassagebysara\.com\b" 	1;
 "~*\badvancedsoftwaresupport\.com\b" 	1;
 "~*\badventureparkcostarica\.com\b" 	1;
 "~*\badverster\.com\b" 	1;
@@ -527,6 +530,7 @@
 "~*\basdfg\.pro\b" 	1;
 "~*\basdfz\.pro\b" 	1;
 "~*\basia\-forum\.ru\b" 	1;
+"~*\basiavirtualsolutions\.com\b" 	1;
 "~*\basiengirls\.net\b" 	1;
 "~*\basmxsatadriverin\.aircus\.com\b" 	1;
 "~*\basociatia\-tipografilor\-transilvania\.ro\b" 	1;
@@ -771,6 +775,7 @@
 "~*\bbezsporno\.ru\b" 	1;
 "~*\bbeztuberkuleza\.ru\b" 	1;
 "~*\bbfz\.biz\b" 	1;
+"~*\bbg6s0\.com\b" 	1;
 "~*\bbharatdefencekavach\.com\b" 	1;
 "~*\bbibys\.com\b" 	1;
 "~*\bbidbuy\.co\.kr\b" 	1;
@@ -832,6 +837,7 @@
 "~*\bblagovest\-med\.ru\b" 	1;
 "~*\bblavia\.00author\.com\b" 	1;
 "~*\bblobar\.org\b" 	1;
+"~*\bblockety\.co\b" 	1;
 "~*\bblockworld\.ru\b" 	1;
 "~*\bblog\.axant\.it\b" 	1;
 "~*\bblog\.f00kclan\.de\b" 	1;
@@ -848,6 +854,7 @@
 "~*\bblogqpot\.com\b" 	1;
 "~*\bblogrankers\.com\b" 	1;
 "~*\bblog\.remote\-computer\.de\b" 	1;
+"~*\bblogsfunky672\.weebly\.com\b" 	1;
 "~*\bblogs\.rediff\.com\b" 	1;
 "~*\bblog\.yam\.com\b" 	1;
 "~*\bbloke\.com\b" 	1;
@@ -1462,6 +1469,7 @@
 "~*\bdanschawbel\.com\b" 	1;
 "~*\bdaooda\.com\b" 	1;
 "~*\bdaptravel\.com\b" 	1;
+"~*\bdaretodonate\.co\b" 	1;
 "~*\bdarkages\.info\b" 	1;
 "~*\bdarkbooks\.org\b" 	1;
 "~*\bdarmebel\.com\.ua\b" 	1;
@@ -1890,6 +1898,7 @@
 "~*\bexdocsfiles\.com\b" 	1;
 "~*\bexecutehosting\.com\b" 	1;
 "~*\bexhibitionplus\.eu\b" 	1;
+"~*\bexlarseva\.webblog\.es\b" 	1;
 "~*\bexmasters\.com\b" 	1;
 "~*\bexoclick\.com\b" 	1;
 "~*\bexoneration\-project\.us\b" 	1;
@@ -2018,6 +2027,7 @@
 "~*\bfilkhbr\.com\b" 	1;
 "~*\bfillmewithhappiness\.com\b" 	1;
 "~*\bfilmbokep69\.com\b" 	1;
+"~*\bfilmci\.pro\b" 	1;
 "~*\bfilmetricsasia\.com\b" 	1;
 "~*\bfilmfanatic\.com\b" 	1;
 "~*\bfilmgo\.ru\b" 	1;
@@ -2128,6 +2138,7 @@
 "~*\bfoxtechfpv\.com\b" 	1;
 "~*\bfoxweber\.com\b" 	1;
 "~*\bfoxydeal\.com\b" 	1;
+"~*\bfranch\.info\b" 	1;
 "~*\bfranecki\.net\b" 	1;
 "~*\bfranklinfire\.co\b" 	1;
 "~*\bfr\-bearings\.ru\b" 	1;
@@ -2376,6 +2387,7 @@
 "~*\bgood\-mummy\.ru\b" 	1;
 "~*\bgoodnightjournal\.com\b" 	1;
 "~*\bgoodprotein\.ru\b" 	1;
+"~*\bgoodwinmetals\.co\b" 	1;
 "~*\bgoodwriterssales\.com\b" 	1;
 "~*\bgoogglet\.com\b" 	1;
 "~*\bgooglefeud\.com\b" 	1;
@@ -2428,6 +2440,7 @@
 "~*\bgrtyi\.com\b" 	1;
 "~*\bgrupografico\-pilar\.com\.ar\b" 	1;
 "~*\bgsasearchenginerankerdiscount\.com\b" 	1;
+"~*\bgsasearchenginerankerhelp\.com\b" 	1;
 "~*\bgsasearchengineranker\.pw\b" 	1;
 "~*\bgsasearchengineranker\.site\b" 	1;
 "~*\bgsasearchengineranker\.space\b" 	1;
@@ -2476,6 +2489,7 @@
 "~*\bhao123\.com\b" 	1;
 "~*\bhappy\.new\.yeartwit\.com\b" 	1;
 "~*\bhard\-porn\.mobi\b" 	1;
+"~*\bharmonyglen\.us\b" 	1;
 "~*\bhasfun\.com\b" 	1;
 "~*\bhatdc\.org\b" 	1;
 "~*\bhatedriveapart\.com\b" 	1;
@@ -2548,6 +2562,7 @@
 "~*\bhistock\.info\b" 	1;
 "~*\bhistorichometeam\.com\b" 	1;
 "~*\bhitcpm\.com\b" 	1;
+"~*\bhit\-kino\.ru\b" 	1;
 "~*\bhit\-men\.men\b" 	1;
 "~*\bhitsbox\.info\b" 	1;
 "~*\bhiwibyh\.bugs3\.com\b" 	1;
@@ -2753,6 +2768,7 @@
 "~*\binsta\-add\.pro\b" 	1;
 "~*\binstabid\.tech\b" 	1;
 "~*\binsurple\.com\b" 	1;
+"~*\bin\-tandem\.co\b" 	1;
 "~*\bintegritylandscapeservices\.com\b" 	1;
 "~*\bintelhdgraphicsgtdrive6w\.metroblog\.com\b" 	1;
 "~*\bintellego\.info\b" 	1;
@@ -2800,10 +2816,12 @@
 "~*\biradiology\.ru\b" 	1;
 "~*\birkutsk\.online\-podarki\.com\b" 	1;
 "~*\birkutsk\.zrus\.org\b" 	1;
+"~*\biron\-age\.info\b" 	1;
 "~*\birunfar\.com\b" 	1;
 "~*\biscblog\.info\b" 	1;
 "~*\bi\-service\.kz\b" 	1;
 "~*\bisistaylorporn\.info\b" 	1;
+"~*\bisitpaleo\.info\b" 	1;
 "~*\biskalko\.ru\b" 	1;
 "~*\bislamtoday\.co\.za\b" 	1;
 "~*\bislandminingsupply\.wordpress\.com\b" 	1;
@@ -2818,6 +2836,7 @@
 "~*\bistmira\.ru\b" 	1;
 "~*\bistock\-mebel\.ru\b" 	1;
 "~*\bistripper\.com\b" 	1;
+"~*\bitag\.pw\b" 	1;
 "~*\bitbc\.kiev\.ua\b" 	1;
 "~*\bitch\.io\b" 	1;
 "~*\bitis4you\.com\b" 	1;
@@ -2844,6 +2863,7 @@
 "~*\bj33x\.com\b" 	1;
 "~*\bjacago\.com\b" 	1;
 "~*\bjackwolfskinoutlet\.online\b" 	1;
+"~*\bjames13prix\.info\b" 	1;
 "~*\bjamiembrown\.com\b" 	1;
 "~*\bjanavibekken\.no\b" 	1;
 "~*\bjanerikholst\.se\b" 	1;
@@ -2907,6 +2927,7 @@
 "~*\bkabbalah\-red\-bracelets\.com\b" 	1;
 "~*\bkadashihotel\.com\b" 	1;
 "~*\bkaidalibor\.de\b" 	1;
+"~*\bkakablog\.net\b" 	1;
 "~*\bkalandranis\.gr\b" 	1;
 "~*\bkalb\.ru\b" 	1;
 "~*\bkaliningrad\.zrus\.org\b" 	1;
@@ -2928,6 +2949,7 @@
 "~*\bkarusel\-market\.ru\b" 	1;
 "~*\bkashubadesign\.ru\b" 	1;
 "~*\bkasino\-money\.pw\b" 	1;
+"~*\bkatadhin\.co\b" 	1;
 "~*\bkatjimej\.blog\.fc2\.com\b" 	1;
 "~*\bkatushka\.net\b" 	1;
 "~*\bkazan\.xrus\.org\b" 	1;
@@ -2938,6 +2960,7 @@
 "~*\bkazrent\.com\b" 	1;
 "~*\bkchaxton\.com\b" 	1;
 "~*\bkeenoutlet\.online\b" 	1;
+"~*\bkeki\.info\b" 	1;
 "~*\bkemerovo\.zrus\.org\b" 	1;
 "~*\bkenaba\.su\b" 	1;
 "~*\bkerch\.site\b" 	1;
@@ -2945,8 +2968,11 @@
 "~*\bkerwinandcariza\.com\b" 	1;
 "~*\bketoanhanoi\.info\b" 	1;
 "~*\bketrzyn\.pl\b" 	1;
+"~*\bkevblog\.top\b" 	1;
 "~*\bkeyhantercume\.com\b" 	1;
+"~*\bkeywesthideaways\.co\b" 	1;
 "~*\bkeywordblocks\.com\b" 	1;
+"~*\bkeywordglobal\.co\.za\b" 	1;
 "~*\bkeywordhut\.com\b" 	1;
 "~*\bkeywordsdoctor\.com\b" 	1;
 "~*\bkeywordsking\.com\b" 	1;
@@ -3879,6 +3905,7 @@
 "~*\bokout\.ru\b" 	1;
 "~*\bokroshki\.ru\b" 	1;
 "~*\bok\.ru\b" 	1;
+"~*\boksrv\.com\b" 	1;
 "~*\boktube\.ru\b" 	1;
 "~*\bok\-ua\.info\b" 	1;
 "~*\bokuos\.com\b" 	1;
@@ -4005,6 +4032,7 @@
 "~*\bpanchro\.co\.uk\b" 	1;
 "~*\bpanchro\.xyz\b" 	1;
 "~*\bpandarastore\.top\b" 	1;
+"~*\bpandroid\.co\b" 	1;
 "~*\bpanouri\-solare\-acoperis\.com\b" 	1;
 "~*\bpaparazzistudios\.com\.au\b" 	1;
 "~*\bpapasdelivery\.ru\b" 	1;
@@ -4183,6 +4211,7 @@
 "~*\bpogosh\.com\b" 	1;
 "~*\bpogruztehnik\.ru\b" 	1;
 "~*\bpoisk\-zakona\.ru\b" 	1;
+"~*\bpoiskzakona\.ru\b" 	1;
 "~*\bpojdelo\.weebly\.com\b" 	1;
 "~*\bpokemongooo\.ml\b" 	1;
 "~*\bpokemon\-go\-play\.online\b" 	1;
@@ -4638,6 +4667,7 @@
 "~*\bsaddiechoua\.com\b" 	1;
 "~*\bsad\-torg\.com\.ua\b" 	1;
 "~*\bsady\-urala\.ru\b" 	1;
+"~*\bsaecsa\.co\b" 	1;
 "~*\bsafe\-app\.net\b" 	1;
 "~*\bsaitevpatorii\.com\b" 	1;
 "~*\bsajatvelemeny\.com\b" 	1;
@@ -5085,6 +5115,7 @@
 "~*\bsongoo\.wz\.cz\b" 	1;
 "~*\bsongplanet\.ru\b" 	1;
 "~*\bsonnikforme\.ru\b" 	1;
+"~*\bsoochi\.co\b" 	1;
 "~*\bsophang8\.com\b" 	1;
 "~*\bsortthemesitesby\.com\b" 	1;
 "~*\bsosdepotdebilan\.com\b" 	1;
@@ -5253,6 +5284,7 @@
 "~*\bsurintech\.ac\.th\b" 	1;
 "~*\bsurvival\.betteroffers\.review\b" 	1;
 "~*\bsusanholtphotography\.com\b" 	1;
+"~*\bsuture\.co\b" 	1;
 "~*\bsvarbit\.com\b" 	1;
 "~*\bsvarkagid\.com\b" 	1;
 "~*\bsvbur\.ru\b" 	1;
@@ -5310,6 +5342,7 @@
 "~*\bt\-bygg\.com\b" 	1;
 "~*\btd\-33\.ru\b" 	1;
 "~*\btd\-l\-market\.ru\b" 	1;
+"~*\btds\-advert002\.info\b" 	1;
 "~*\btds\-advert005\.info\b" 	1;
 "~*\btdsing\.ru\b" 	1;
 "~*\bteastory\.co\b" 	1;
@@ -5854,6 +5887,7 @@
 "~*\bvizitki\.net\b" 	1;
 "~*\bvkak\.ru\b" 	1;
 "~*\bvkgaleria\.com\b" 	1;
+"~*\bvkmusics\.ru\b" 	1;
 "~*\bvk\-mus\.ru\b" 	1;
 "~*\bvkonche\.com\b" 	1;
 "~*\bvkontaktemusic\.ru\b" 	1;
@@ -6076,6 +6110,7 @@
 "~*\bworldoffiles\.ru\b" 	1;
 "~*\bworldtraveler\.world\b" 	1;
 "~*\bwormix\-cheats\.ru\b" 	1;
+"~*\bworst\-sites\.online\b" 	1;
 "~*\bwosik\-dach\.service\-for\-web\.de\b" 	1;
 "~*\bwowas31\.ucoz\.ru\b" 	1;
 "~*\bwoweb\.com\.ua\b" 	1;
