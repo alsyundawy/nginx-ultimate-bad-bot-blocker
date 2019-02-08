@@ -249,6 +249,7 @@ Mass Downloader
 Mata Hari
 MauiBot
 Meanpathbot
+Mediatoolkitbot
 mediawords
 MegaIndex.ru
 Metauri
@@ -373,8 +374,6 @@ SEOprofiler
 seoscanners
 SEOstats
 sexsearcher
-Seznam
-SeznamBot
 Shodan
 Siphon
 SISTRIX
